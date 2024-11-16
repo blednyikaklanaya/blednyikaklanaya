@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/db/49/bf/db49bfdd321c96a6406da3ea81fc8413.gif" width="100vw"/>
-</div>
-
 <div id="body" align="center">
   Frontend React Developer from Ukraine.<br/><br/>
   You can see an example of work, and just what I do at the moment in my GitHub repositories.
