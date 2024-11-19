@@ -1,5 +1,5 @@
 <div id="body" align="center">
-  Frontend React Developer from Ukraine.<br/><br/>
+  Frontend React Developer.<br/><br/>
   You can see an example of work, and just what I do at the moment in my GitHub repositories.
   
   At the moment I participate in non-computer development sites for volunteering and just personal growth of skills.<br/>
